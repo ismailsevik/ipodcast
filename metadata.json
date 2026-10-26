@@ -1,0 +1,6 @@
+{
+  "name": "iPodcast",
+  "description": "Google Podcastler minimalist tasarımında ultra hızlı podcast çalar ve keşif uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
